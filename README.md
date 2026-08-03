@@ -58,15 +58,9 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=akarupusaieshwar-creator&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarupusaieshwar-creator&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saieshwarchary&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akarupusaieshwar-creator&theme=tokyonight&hide_border=true" />
 </p>
-
-> **Note:** Replace `saieshwarchary` in the stats URLs above with your actual GitHub username if it differs.
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
