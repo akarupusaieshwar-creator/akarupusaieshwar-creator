@@ -8,7 +8,7 @@
 
 ### 🎓 About Me
 
-- 🎓 2nd Year **Computer Science Engineering** student at **CVR College of Engineering**, Hyderabad
+- 🎓 3rd Year **Computer Science Engineering** student at **CVR College of Engineering**, Hyderabad
 - 💻 Passionate about **Software Development**, **Data Structures & Algorithms**, and **Java**
 - 🚀 Sharpening my problem-solving skills on **LeetCode**, **CodeChef**, and **Smart Interviews** while building real-world projects
 - 🌱 Currently learning **Android Development**, **Web Development**, **Git & GitHub**, **Linux**, and exploring **Artificial Intelligence**
