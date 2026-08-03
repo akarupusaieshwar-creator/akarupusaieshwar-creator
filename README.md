@@ -51,16 +51,6 @@
 - 💼 Prepare for **Software Engineering internships**
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akarupusaieshwar-creator&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarupusaieshwar-creator&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akarupusaieshwar-creator&theme=tokyonight&hide_border=true" />
-</p>
 ### 📫 Connect With Me
 
 <p align="center">
@@ -78,7 +68,7 @@
 ---
 
 <p align="center">
-  <em>⚡ "Consistency beats intensity. One commit, one problem, one project at a time."</em>
+  <em>"This profile is under active development!!! 🚀"</em>
 </p>
 
 <p align="center">
